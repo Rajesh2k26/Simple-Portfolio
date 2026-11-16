@@ -52,5 +52,9 @@ No installation or build step is required.
 2. Keep `index.html`, `styles.css`, and `script.js` in the same folder.
 3. Open `index.html` in a modern browser.
 
+## To view website
+
+- link: https://rk-portfolio-eight-pi.vercel.app/
+
 For the most reliable local development experience, serve the folder with any simple static-file server, then open the local address it provides.
 
